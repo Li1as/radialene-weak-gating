@@ -1,0 +1,17 @@
+n  connected-subcubic  nonsingular  zero-contact-pairs  protected  one-sign  mixed
+2  1  1  0  0  0  0
+3  2  1  0  0  0  0
+4  6  3  5  17  28  0
+5  10  3  8  84  132  0
+6  29  15  97  2371  4644  842
+Total site/sign configurations checked: 8118
+Full-matrix vs two-arc identities at rational parameter points: 180
+[5]radialene  y=1/10  x=1/99  G_st=0  +/-10% x: opposite signs
+[7]radialene  y=1/10  x=1/9701  G_st=0  +/-10% x: opposite signs
+[9]radialene  y=1/10  x=1/950599  G_st=0  +/-10% x: opposite signs
+[11]radialene  y=1/10  x=1/93149001  G_st=0  +/-10% x: opposite signs
+[13]radialene  y=1/10  x=1/9127651499  G_st=0  +/-10% x: opposite signs
+[15]radialene  y=1/10  x=1/894416697901  G_st=0  +/-10% x: opposite signs
+[5]radialene  x=y=1/10  G_st=89/990
+[5]radialene  y=9/10  x=81/19  G_st=0
+Equal-shift algebraic factors from full cofactors (n=5,7,9): 6
